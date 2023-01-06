@@ -1,3 +1,14 @@
-# WebServer - ResServer
+# RestServer
 
-Para ejecutar ``` npm install ``` reconstruir los modulos de node.js.
+RestServer base creado  en mongodb en proceso de desarrollo 
+
+### instalaciones
+
+agregar los paquetes ```npm install```
+
+arraca con ```npm run dev```
+
+
+
+
+
